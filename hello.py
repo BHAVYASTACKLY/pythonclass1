@@ -1,7 +1,7 @@
 #print formatting task-1
 print("laptop","mouse","keyboard", sep="|")
-print("Hello World Welcome python" ,end="")
 print("Hello World Welcome python" ,end="\n")
+print("Hello World Welcome python" )
 
 
 #Task-2 variables
